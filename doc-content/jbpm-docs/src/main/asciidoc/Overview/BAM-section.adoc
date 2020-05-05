@@ -6,6 +6,7 @@ With this brand new module, to develop business activity monitoring and reportin
 
 .Business Activity Monitoring
 image::Overview/BAM.png[]
+//image::/content/repositories/llu/_images/Overview/BAM.png[]
 
 Key features:
 

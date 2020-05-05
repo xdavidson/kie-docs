@@ -1,0 +1,31 @@
+#server: http://localhost:8080
+#server: https://pantheon2-dev.int.us-east.aws.preprod.paas.redhat.com
+#server: https://pantheon2-qa.int.us-east.aws.preprod.paas.redhat.com
+server: https://pantheon2-stage.int.us-east.aws.preprod.paas.redhat.com
+#server: https://pantheon2.int.us-west.aws.prod.paas.redhat.com
+repository: llu
+followlinks: true
+
+titles:
+
+modules:
+  #- doc-content/shared-kie-docs/src/main/asciidoc/CDI/CDI-chapter.adoc
+  #- doc-content/shared-kie-docs/src/main/asciidoc/Welcome-chapter.adoc
+  - doc-content/jbpm-docs/src/main/asciidoc/BAM-chapter.adoc
+    #- doc-content/jbpm-docs/src/main/asciidoc/Console-chapter.adoc
+  - doc-content/jbpm-docs/src/main/asciidoc/Designer-chapter.adoc
+    #- doc-content/jbpm-docs/src/main/asciidoc/GettingStarted-chapter.adoc
+    #- doc-content/jbpm-docs/src/main/asciidoc/Overview-chapter.adoc
+    #- doc-content/jbpm-docs/src/main/asciidoc/ReleaseNotes-chapter.adoc
+resources:
+
+  - doc-content/jbpm-docs/src/main/asciidoc/BAM/*
+    #- doc-content/jbpm-docs/src/main/asciidoc/Console/*
+    #- doc-content/shared-kie-docs/src/main/asciidoc/GettingInvolved-section.adoc
+    #- doc-content/shared-kie-docs/src/main/asciidoc/Install-section.adoc
+    #- doc-content/shared-kie-docs/src/main/asciidoc/Install/*.adoc
+  - doc-content/jbpm-docs/src/main/asciidoc/Designer/*
+    #- doc-content/jbpm-docs/src/main/asciidoc/GettingStarted/*
+    #- doc-content/jbpm-docs/src/main/asciidoc/Overview/*
+    #- doc-content/jbpm-docs/src/main/asciidoc/ReleaseNotes/*.adoc
+    #- doc-content/jbpm-docs/src/main/asciidoc/ReleaseNotes/**/*.adoc

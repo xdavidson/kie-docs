@@ -22,7 +22,7 @@ to navigate to them.
 
 image::Console/task-admin_list.png[]
 
-By default, this page is only available for users with {CENTRAL} roles **``**admin**``** and **``**process-admin**``**.
+By default, this page is only available for users with Business Central roles **``**admin**``** and **``**process-admin**``**.
 
 == Tasks visible to the current user
 
@@ -36,7 +36,7 @@ IMPORTANT: By default the system associates all tasks to the user **``**Administ
 and the group **``**Administrators**``** (configured via the **``**org.jbpm.ht.admin.group**``** system property), so in
  order to display all tasks, your **``**admin**``** or **``**process-admin**``** user needs to belong to the **``**Administrators**``** group.
 
-IMPORTANT: Notice that the mentioned roles and group configurations are related to the {KIE_SERVER}, not to {CENTRAL} (in case they have separate user configurations).
+IMPORTANT: Notice that the mentioned roles and group configurations are related to the KIE Server, not to Business Central (in case they have separate user configurations).
 
 == Task Inbox
 

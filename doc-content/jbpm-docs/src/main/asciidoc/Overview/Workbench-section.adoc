@@ -1,6 +1,6 @@
-= {CENTRAL}
+= Business Central
 
-The {CENTRAL} web-based application covers the complete life cycle of BPM projects starting at authoring phase, going through implementation, execution and monitoring.
+The Business Central web-based application covers the complete life cycle of BPM projects starting at authoring phase, going through implementation, execution and monitoring.
 It combines a series web-based tools into one configurable solution to manage all assets and runtime data needed for the business solution.
 
 It supports the following:
@@ -9,8 +9,9 @@ It supports the following:
 * A web-based user interface to manage your business processes, targeted towards business users; it also supports the visualization (and editing) of your artifacts (the web-based editors like designer, data and form modeler are integrated here), but also categorisation,  build and deployment, etc..
 * Collaboration features which enable multiple actors (for example business users and developers) to work together on the same project.
 
-.{CENTRAL} application
+.Business Central application
 image::Overview/kie-wb-after-login.png[]
+//image::/content/repositories/llu/_images/Overview/kie-wb-after-login.png[]
 
 include::Designer-section.adoc[leveloffset=+1]
 include::DataModeler-section.adoc[leveloffset=+1]

@@ -1,7 +1,6 @@
 = Process Management
 
-
-Business processes and all its related runtime information can be managed through {CENTRAL}.
+Business processes and all its related runtime information can be managed through Business Central.
 It is targeted towards process administrators users and its main features include:
 
 * Process definitions management: view the entire list of process currently deployed into a Kie Server and its details.
@@ -12,14 +11,16 @@ It is targeted towards process administrators users and its main features includ
 
 .Managing your process instances
 image::Overview/ProcessInstanceDiagram.png[align="center"]
+//image::/content/repositories/llu/_images/Overview/ProcessInstanceDiagram.png[align="center"]
 
 For more details around the entire management section please read the <<jBPMConsole,process management chapter>>.
 
 = Task Inbox
 
 As often part of any process execution, human involvement is needed to review, approve or provide extra information.
-{CENTRAL} provides a Task Inbox section where any user potentially involved with these task can manage its workload.
+Business Central provides a Task Inbox section where any user potentially involved with these task can manage its workload.
 In there, users are able to get a list of all tasks, complete tasks using customizable task forms, collaborate using comments and more.
 
 .Task Inbox
 image::Overview/TaskInbox.png[align="center"]
+//image::/content/repositories/llu/_images/Overview/TaskInbox.png[align="center"]

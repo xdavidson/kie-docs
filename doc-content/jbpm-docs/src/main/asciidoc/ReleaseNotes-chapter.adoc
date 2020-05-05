@@ -1,6 +1,6 @@
 [id='jbpmreleasenotes']
 
-= Release Notes
+= Release Notes Demo
 
 //IMPORTANT: For 7.24 and later, use the following include format:
 //== jBPM 7.24
@@ -61,7 +61,7 @@ include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.14.0.Final-
 == jBPM 7.13
 
 include::ReleaseNotes/Release.7.13.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.13.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.13.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 7.12
 
@@ -70,7 +70,7 @@ include::ReleaseNotes/Release.7.12.0.Final-section.adoc[leveloffset=+2]
 == jBPM 7.11
 
 include::ReleaseNotes/Release.7.11.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.11.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.11.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 7.10
 
@@ -83,28 +83,28 @@ include::ReleaseNotes/Release.7.9.0.Final-section.adoc[leveloffset=+2]
 == jBPM 7.8
 
 include::ReleaseNotes/Release.7.8.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.8.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.8.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 7.7
 
 include::ReleaseNotes/Release.7.7.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.7.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.7.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 7.6
 
 include::ReleaseNotes/Release.7.6.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.6.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.6.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 7.5
 
 include::ReleaseNotes/Release.7.5.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.5.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/KieServer/ReleaseNotes/ReleaseNotesKieServer.7.5.1.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.5.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/KieServer/ReleaseNotes/ReleaseNotesKieServer.7.5.1.Final-section.adoc[leveloffset=+2]
 
 == jBPM 7.4
 
 include::ReleaseNotes/Release.7.4.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.4.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.4.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 7.3
 
@@ -118,42 +118,42 @@ include::ReleaseNotes/Release.7.2.0.Final-section.adoc[leveloffset=+2]
 == jBPM 7.1
 
 include::ReleaseNotes/Release.7.1.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.1.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.1.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 7.0
 
 include::ReleaseNotes/Release.7.0.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.0.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/KieServer/ReleaseNotes/ReleaseNotesKieServer.7.0.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.7.0.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/KieServer/ReleaseNotes/ReleaseNotesKieServer.7.0.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 6.5
 
 include::ReleaseNotes/Release.6.5.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.5.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.5.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 6.4
 
 include::ReleaseNotes/Release.6.4.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.4.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.4.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 6.3
 
 include::ReleaseNotes/Release.6.3.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.3.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.3.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 6.2
 
 include::ReleaseNotes/Release.6.2.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.2.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.2.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 6.1
 
 include::ReleaseNotes/Release.6.1.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.1.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.1.0.Final-section.adoc[leveloffset=+2]
 
 == jBPM 6.0
 
-include::{shared-dir}/KIE/ReleaseNotes/ReleaseNotesKIE.6.0.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/KIE/ReleaseNotes/ReleaseNotesKIE.6.0.0.Final-section.adoc[leveloffset=+2]
 include::ReleaseNotes/Release.6.0.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.0.0.Final-section.adoc[leveloffset=+2]
-include::{shared-dir}/integration/ReleaseNotes/ReleaseNotesIntegration.6.0.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/Workbench/ReleaseNotes/ReleaseNotesWorkbench.6.0.0.Final-section.adoc[leveloffset=+2]
+//include::{shared-dir}/integration/ReleaseNotes/ReleaseNotesIntegration.6.0.0.Final-section.adoc[leveloffset=+2]

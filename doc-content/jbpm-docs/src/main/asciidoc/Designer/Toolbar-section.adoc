@@ -227,7 +227,7 @@ image::Designer/sim9.png[]
 (23) Service Repository - Allows users to connect to a service repository via its URL and see the list of available services it provides. Each of the listed services can then be installed into the users project by clicking on the "wrench" icon next to each listed service.
 Installing a service does the following things:
 
-* Installs the service configuration (wid) into the users {CENTRAL} project. This can later be edited via the Workitem Definitions Editor.
+* Installs the service configuration (wid) into the users Business Central project. This can later be edited via the Workitem Definitions Editor.
 * Installs the service icon (defined in the service configuration) and if one does not exist a default one will be provided.
 * Installs the service maven dependencies into the project POM.
 * Installs the service default handler into the project Deployment Descriptor.

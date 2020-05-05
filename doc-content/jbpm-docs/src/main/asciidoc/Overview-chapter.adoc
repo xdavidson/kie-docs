@@ -1,5 +1,6 @@
 [[_jbpmoverview]]
 = Overview
+:last-update-label!:
 
 include::Overview/WhatIsjBPM-section.adoc[leveloffset=+1]
 include::Overview/Overview-section.adoc[leveloffset=+1]

@@ -2,6 +2,7 @@
 
 
 image::Overview/Overview.png[]
+//image::/content/repositories/llu/_images/Overview/Overview.png[]
 
 
 This figure gives an overview of the different components of the jBPM project.
